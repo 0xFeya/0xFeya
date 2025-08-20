@@ -15,9 +15,12 @@
 ---
 
 ### 🏆 Fun Facts
-- 🎂 **GitHub member since 2013** → 11+ years in open source.  
-- ⛓ First smart contract deployed: *before most knew what gas was*.  
-- 🚀 Still here, still shipping. WAGMI.  
+- 🎂 Been on GitHub since 2013 → basically OG status.  
+- ⛓ Deployed my first smart contract before MetaMask was cool.  
+- 🤯 Gas fees back then? Still painful.  
+- 🐸 Learned Solidity before I learned how to cook noodles.  
+- 🚀 Still here, still building — WAGMI fr fr.  
+- 🔮 If it’s not onchain, did it even happen?  
 
 ---
 
