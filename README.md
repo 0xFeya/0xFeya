@@ -7,26 +7,10 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🏗 Building on Ethereum since day one.  
-- 🔗 Passionate about **onchain apps, DeFi, L2 scaling, Farcaster & Base**.  
-- 📜 Writing code, smart contracts, and sometimes thoughts on decentralization.  
-- 🌍 Open-source believer, community first.  
-
----
-
-### ⚡ Tech Stack
-- **Smart Contracts:** Solidity, Vyper  
-- **Infra / Node:** Hardhat, Foundry, Ethers.js, Web3.js  
-- **Onchain Data:** The Graph, Dune Analytics  
-- **L2s & Rollups:** Base, Optimism, Arbitrum, zkSync  
-- **Others:** GitHub Actions, Docker, Rust (learning 🦀)  
-
----
-
-### 📊 GitHub Stats
-![0xfeya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xfeya&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xfeya&layout=compact&theme=radical)
+- 🌱 Curious mind, always learning everything about programming and technology.  
+- 🔬 Researcher: love exploring, analyzing, and experimenting with new ideas.  
+- ⛓ Ethereum maxi.
+- 🏗 Currently diving deep into **Base** and onchain social like **Farcaster**.
 
 ---
 
@@ -39,8 +23,8 @@
 
 ### 📫 Connect
 - 🐦 Twitter: [@0xfeya](https://twitter.com/0xfeya)  
-- 🌐 ENS: **0xfeya.eth**  
-- 📬 Farcaster: `0xfeya`  
+- 🌐 ENS: **morganlefay.eth**  
+- 📬 Farcaster: `morganlefay.eth`
 
 ---
 
