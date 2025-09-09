@@ -1,34 +1,8 @@
-# 👋 Hey, I'm 0xFeya  
+# 💋 Sub to my commits, I'm 0xFeya 
 
 ![Member since 2013](https://img.shields.io/badge/Member%20Since-2013-blue?style=for-the-badge)
-![Ethereum Maxi](https://img.shields.io/badge/Ethereum-Maxi-purple?logo=ethereum&style=for-the-badge)
-![Onchain Builder](https://img.shields.io/badge/Onchain-Builder-orange?style=for-the-badge)
-
----
-
-### 🧑‍💻 About Me
-- 🌱 Curious mind, always learning everything about programming and technology.  
-- 🔬 Researcher: love exploring, analyzing, and experimenting with new ideas.  
-- ⛓ Ethereum maxi.
-- 🏗 Currently diving deep into **Base** and onchain social like **Farcaster**.
-
----
-
-### 🏆 Fun Facts
-- 🎂 Been on GitHub since 2013 → basically OG status.  
-- ⛓ Deployed my first smart contract before MetaMask was cool.  
-- 🤯 Gas fees back then? Still painful.  
-- 🐸 Learned Solidity before I learned how to cook noodles.  
-- 🚀 Still here, still building — WAGMI fr fr.  
-- 🔮 If it’s not onchain, did it even happen?  
-
----
-
-### 📫 Connect
-- 🐦 Twitter: [@0xfeya](https://twitter.com/0xfeya)  
-- 🌐 ENS: **morganlefay.eth**  
-- 📬 Farcaster: `morganlefay.eth`
-
----
-
-> 💡 *“Don’t bet against Ethereum.”*
+![NSFW Committer](https://img.shields.io/badge/NSFW-Committer-hotpink?style=for-the-badge)
+![Code & Chill](https://img.shields.io/badge/Code-%26%20Chill-red?style=for-the-badge)
+![Bug Daddy](https://img.shields.io/badge/Bug-Daddy-purple?style=for-the-badge)
+![Degen Coder](https://img.shields.io/badge/Degen-Coder-pink?style=for-the-badge)
+![Late Night Commits](https://img.shields.io/badge/Late%20Night-Commits-yellow?style=for-the-badge)
